@@ -1,0 +1,54 @@
+body {
+  background: #FFF;
+}
+
+.header{
+    margin-top: 10px;
+    background-color: #0f30ac;
+}
+
+footer {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.logotype{
+    color: #000;
+}
+
+.logotype:hover{
+    color: #000000;
+    text-decoration: none;
+}
+
+.title{
+    margin-bottom: 45px;
+}
+
+.main-text{
+    display: inline-block;
+    padding: 15px;
+}
+
+.group-btn{
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.student{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+
